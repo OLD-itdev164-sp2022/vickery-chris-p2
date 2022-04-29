@@ -44,8 +44,6 @@ const samplePageLinks = [
   { text: "TypeScript", url: "using-typescript" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
-  { text: "about", url: "about" },
-  { text: "contact", url: "contact" },
 ]
 
 const moreLinks = [

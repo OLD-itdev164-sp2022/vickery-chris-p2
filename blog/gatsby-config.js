@@ -1,13 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Necrons cont`,
-    description: `It-dev 164`,
-    author: `Chris Vickery`,
-    contact: {
-      name: `chris vickery`,
-      company: `vicink`,
-      address: `somewhere.here`,
-    },
+    title: `Gatsby Default Starter`,
+    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
